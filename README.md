@@ -14,37 +14,37 @@ New production studios often lack historical performance benchmarks. This projec
 - Time Range: 2005–2025
 - Records analyzed: ~278K productions
 - Filters applied:
-      - Adult titles removed
-      - Missing ratings removed
-      - Duplicates dropped
+   - Adult titles removed
+   - Missing ratings removed
+   - Duplicates dropped
 
 ⚙️ Data Preparation
 - Scope restriction and filtering
 - Missing value handling
 - Duplicate removal
 - Feature selection across:
-      - Genre
-      - Runtime
-      - Ratings & vote counts
-      - Directors
-      - Actors
-      - Writers
+   - Genre
+   - Runtime
+   - Ratings & vote counts
+   - Directors
+   - Actors
+   - Writers
 
 📊 Analysis Performed
-      - Genre popularity and rating trends
-      - Runtime trend analysis by year
-      - Top films by rating and vote volume
-      - Director performance segmentation
-      - Actor popularity vs rating comparison
-      - Genre vs popularity heatmap
-      - Talent “genre-fit” pattern analysis
+   - Genre popularity and rating trends
+   - Runtime trend analysis by year
+   - Top films by rating and vote volume
+   - Director performance segmentation
+   - Actor popularity vs rating comparison
+   - Genre vs popularity heatmap
+   - Talent “genre-fit” pattern analysis
 
 🔍 Key Insights
-      - Drama is the most consistently high-performing genre
-      - Drama + Sci-Fi / Action blends show stronger engagement potential
-      - Average film runtime has increased over time
-      - Optimal runtime range: 95–110 minutes
-      - Director genre alignment improves outcome probability
+   - Drama is the most consistently high-performing genre
+   - Drama + Sci-Fi / Action blends show stronger engagement potential
+   - Average film runtime has increased over time
+   - Optimal runtime range: 95–110 minutes
+   - Director genre alignment improves outcome probability
 
 🎯 Strategic Recommendations
 - Focus on drama-led productions with sci-fi/action elements
@@ -52,20 +52,20 @@ New production studios often lack historical performance benchmarks. This projec
 - Apply director strength-genre alignment (“hit zone” approach)
 - Collaborate with emerging balanced storytellers
 - Use dual casting strategy:
-       - Recognizable lead actor
-       - Emerging supporting talent
+   - Recognizable lead actor
+   - Emerging supporting talent
 
 🛠 Tools Used
-      - Data Cleaning & Transformation
-      - Exploratory Data Analysis
-      - Trend Analysis
-      - Tableau Visualization
+   - Data Cleaning & Transformation
+   - Exploratory Data Analysis
+   - Trend Analysis
+   - Tableau Visualization
 
 📈 Deliverables
-      - Cleaned analytical dataset
-      - Visual trend analysis
-      - Strategy recommendation framework
-      - Tableau dashboard
+   - Cleaned analytical dataset
+   - Visual trend analysis
+   - Strategy recommendation framework
+   - Tableau dashboard
 
 👩‍💻 Author
 
